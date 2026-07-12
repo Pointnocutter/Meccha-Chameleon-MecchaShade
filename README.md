@@ -1,4 +1,5 @@
 # 👻 Meccha Shade — External Hack Tool
+<img width="1285" height="729" alt="image" src="https://github.com/user-attachments/assets/ffcac4ef-ce83-4793-9dbd-2e8f6ee516d8" />
 
 **Master the hide-and-seek battlefield with advanced ESP, aimbot, and movement utilities. Dominate every match with precision and style.**
 
